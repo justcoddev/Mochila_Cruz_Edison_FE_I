@@ -13,5 +13,9 @@ Tomando como base el benchmark de e-commerce realizado con el docente, donde pud
 2. Ordenar un proyecto
 El siguiente archivo zip contiene 3 archivos: un archivo HTML, un archivo CSS y una imagen (svg). Crear una carpeta general que será la raíz del proyecto, donde habrá subcarpetas para ordenar cada uno de los archivos antes mencionados. Recordá que quizás —y en general encontrarán esta estructura— uno de ellos no necesita estar dentro de una subcarpeta y puede permanecer directo en la raíz. Si lográs ordenarlos de la manera que viste en el material antes de clase, probá abrir el HTML con tu navegador favorito y revisá qué resultado obtenés. 
 ----------
+>$C5$ $EQUIPO$ $1$
+
+
+
 
 ![imagen resultado "Bienvenidxs al club"](img/class02.png)
