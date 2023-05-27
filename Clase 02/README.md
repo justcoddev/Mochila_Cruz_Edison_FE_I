@@ -1,4 +1,5 @@
 # Clase 2: Uso de herramientas
+>*mayo $10$*
 ----------
 ## Objetivos 
 Descubrir las herramientas utilizadas por los diseñadores con los que interactuaremos, quienes serán los que nos proveerán los bocetos a utilizar. 
