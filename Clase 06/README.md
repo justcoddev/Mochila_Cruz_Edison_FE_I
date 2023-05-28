@@ -36,27 +36,27 @@ Barra de menú principal
 ### Contenido para el área principal:
 
 Sección banner
-> Imagen background
-¡Es un placer tenerte aquí!
-¡Comederos en descuento!
-COMEDEROS
+>Imagen background
+>¡Es un placer tenerte aquí!
+>¡Comederos en descuento!
+>COMEDEROS
 
 Sección productos
 >Imagen patita
-Productos Destacados
-Comederos - Accesorios - Comida
+>Productos Destacados
+>Comederos - Accesorios - Comida
 
 >Imagen producto 1
-Juguete Churrasquito
-$150
+>Juguete Churrasquito
+>$150
 
 >Imagen producto 2
-Juguete Churrasquito
-$150
+>Juguete Churrasquito
+>$150
 
 >Imagen producto 1
-Juguete Churrasquito
-$150
+>Juguete Churrasquito
+>$150
 
 ### Contenido para el pie de página:
 Todos los derechos reservados Front End
@@ -67,19 +67,19 @@ Una vez realizada la maqueta, debería quedarte algo similar a esto:
 ----------
 >$C5$ $EQUIPO$ $1$
 
->## Design
+## Design
 >![Design preview](./design/design06.png)
 
->## Finish
+## Finish
 
 <!-- ![Design preview]() -->
 
 
 
 <!-- ![Design box ](./design/drawio.png) -->
->## Full Desktop
+## Full Desktop
 >![Design preview](./design/Full%20Desktop.jpg)
 
->## Full Mobile
+## Full Mobile
 >![Design preview](./design/Mobile.jpg)
 
