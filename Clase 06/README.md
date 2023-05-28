@@ -42,13 +42,13 @@ Imagen background
 COMEDEROS
 
 ###### Sección productos
-Imagen patita
-Productos Destacados
-Comederos - Accesorios - Comida
+> - Imagen patita
+> - Productos Destacados
+> - Comederos - Accesorios - Comida
 
-Imagen producto 1
-Juguete Churrasquito
-$150
+> - Imagen producto 1
+> - Juguete Churrasquito
+> - $150
 
 Imagen producto 2
 Juguete Churrasquito
