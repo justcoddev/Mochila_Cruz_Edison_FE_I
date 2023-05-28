@@ -1,5 +1,5 @@
 # Clase 3: Crear un wireframe en Figma 
->*mayo $12$*
+>*mayo 12*
 ----------
 ## Objetivos 
 Una de las principales tareas de un desarrollador Front End es estructurar interfaces a partir de un wireframe o una imagen. El objetivo de esta actividad es que puedas practicar cómo manipular este tipo de documentos cuando trabajes con un diseñador. ¡Buena suerte!����✨
