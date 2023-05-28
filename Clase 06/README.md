@@ -35,13 +35,13 @@ Barra de menú principal
 
 ### Contenido para el área principal:
 
-###### Sección banner
-Imagen background
-¡Es un placer tenerte aquí!
-¡Comederos en descuento!
-COMEDEROS
+#### Sección banner
+> - Imagen background
+> - ¡Es un placer tenerte aquí!
+> - ¡Comederos en descuento!
+> - COMEDEROS
 
-###### Sección productos
+#### Sección productos
 > - Imagen patita
 > - Productos Destacados
 > - Comederos - Accesorios - Comida
@@ -50,13 +50,13 @@ COMEDEROS
 > - Juguete Churrasquito
 > - $150
 
-Imagen producto 2
-Juguete Churrasquito
-$150
+> - Imagen producto 2
+> - Juguete Churrasquito
+> - $150
 
-Imagen producto 1
-Juguete Churrasquito
-$150
+> - Imagen producto 1
+> - Juguete Churrasquito
+> - $150
 
 ### Contenido para el pie de página:
 Todos los derechos reservados Front End
