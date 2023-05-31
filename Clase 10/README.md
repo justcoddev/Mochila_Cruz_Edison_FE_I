@@ -27,7 +27,7 @@ Antes de concentrarnos en el código, un ejercicio interesante es comprender cu�
 Una vez realizada la maqueta, debería quedarte algo similar a esto:
 
 ----------
->$C5$ $EQUIPO$ $1$
+>$C5$ $EQUIPO$ $11$
 
 ## Design
 >![Design preview](./Design/Clase%2010.jpg)
