@@ -30,7 +30,7 @@ Una vez realizada la maqueta, debería quedarte algo similar a esto:
 >$C5$ $EQUIPO$ $1$
 
 ## Design
->![Design preview](./design/Clase%2010.jpg)
+>![Design preview](./Design/Clase%2010.jpg)
 
 ## Finish
 
